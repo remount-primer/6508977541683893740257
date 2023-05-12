@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "564954765821",
+    "project_id": "lukmanhoirudin-85615",
+    "storage_bucket": "lukmanhoirudin-85615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564954765821:android:bbffbcf3530acde192a194",
+        "android_client_info": {
+          "package_name": "com.lukmanhoirudin.ascensiondayphotoframe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564954765821-1ealmvre6ep3v1fucs5gebd9k9j24c6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlRdlCvm9OmVk0I-D3sNYK6OD1ffgEeGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564954765821-1ealmvre6ep3v1fucs5gebd9k9j24c6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564954765821:android:26d13bcbef05fe7192a194",
+        "android_client_info": {
+          "package_name": "com.lukmanhoirudin.howtotraveltobali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564954765821-1ealmvre6ep3v1fucs5gebd9k9j24c6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlRdlCvm9OmVk0I-D3sNYK6OD1ffgEeGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564954765821-1ealmvre6ep3v1fucs5gebd9k9j24c6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564954765821:android:b7cd31d22af822ba92a194",
+        "android_client_info": {
+          "package_name": "com.lukmanhoirudin.kebangkitannasionalphotoframe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564954765821-1ealmvre6ep3v1fucs5gebd9k9j24c6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlRdlCvm9OmVk0I-D3sNYK6OD1ffgEeGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564954765821-1ealmvre6ep3v1fucs5gebd9k9j24c6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564954765821:android:427878400d3cf3c492a194",
+        "android_client_info": {
+          "package_name": "com.lukmanhoirudin.motherdayphotoframe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564954765821-1ealmvre6ep3v1fucs5gebd9k9j24c6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlRdlCvm9OmVk0I-D3sNYK6OD1ffgEeGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564954765821-1ealmvre6ep3v1fucs5gebd9k9j24c6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
